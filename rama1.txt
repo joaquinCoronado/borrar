@@ -1,1 +1,2 @@
 se edita desde rama1
+Editado desde master
